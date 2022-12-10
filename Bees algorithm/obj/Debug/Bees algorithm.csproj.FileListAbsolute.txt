@@ -1,0 +1,11 @@
+E:\Основы искусственного интеллекта\Bees algorithm\Bees algorithm\bin\Debug\Bees algorithm.exe.config
+E:\Основы искусственного интеллекта\Bees algorithm\Bees algorithm\bin\Debug\Bees algorithm.exe
+E:\Основы искусственного интеллекта\Bees algorithm\Bees algorithm\bin\Debug\Bees algorithm.pdb
+E:\Основы искусственного интеллекта\Bees algorithm\Bees algorithm\obj\Debug\Bees algorithm.csproj.AssemblyReference.cache
+E:\Основы искусственного интеллекта\Bees algorithm\Bees algorithm\obj\Debug\Bees algorithm.csproj.SuggestedBindingRedirects.cache
+E:\Основы искусственного интеллекта\Bees algorithm\Bees algorithm\obj\Debug\Bees_algorithm.Form1.resources
+E:\Основы искусственного интеллекта\Bees algorithm\Bees algorithm\obj\Debug\Bees_algorithm.Properties.Resources.resources
+E:\Основы искусственного интеллекта\Bees algorithm\Bees algorithm\obj\Debug\Bees algorithm.csproj.GenerateResource.cache
+E:\Основы искусственного интеллекта\Bees algorithm\Bees algorithm\obj\Debug\Bees algorithm.csproj.CoreCompileInputs.cache
+E:\Основы искусственного интеллекта\Bees algorithm\Bees algorithm\obj\Debug\Bees algorithm.exe
+E:\Основы искусственного интеллекта\Bees algorithm\Bees algorithm\obj\Debug\Bees algorithm.pdb
