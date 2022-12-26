@@ -55,7 +55,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(12, 229);
+            this.label1.Location = new System.Drawing.Point(459, 138);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(154, 13);
             this.label1.TabIndex = 0;
@@ -63,7 +63,7 @@
             // 
             // textBoxMinBound
             // 
-            this.textBoxMinBound.Location = new System.Drawing.Point(322, 226);
+            this.textBoxMinBound.Location = new System.Drawing.Point(623, 134);
             this.textBoxMinBound.Name = "textBoxMinBound";
             this.textBoxMinBound.Size = new System.Drawing.Size(100, 20);
             this.textBoxMinBound.TabIndex = 1;
@@ -71,7 +71,7 @@
             // 
             // textBoxMaxBound
             // 
-            this.textBoxMaxBound.Location = new System.Drawing.Point(440, 227);
+            this.textBoxMaxBound.Location = new System.Drawing.Point(741, 135);
             this.textBoxMaxBound.Name = "textBoxMaxBound";
             this.textBoxMaxBound.Size = new System.Drawing.Size(100, 20);
             this.textBoxMaxBound.TabIndex = 2;
@@ -114,7 +114,7 @@
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(12, 126);
+            this.label4.Location = new System.Drawing.Point(459, 52);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(132, 13);
             this.label4.TabIndex = 7;
@@ -122,7 +122,7 @@
             // 
             // textBoxNumElitePlace
             // 
-            this.textBoxNumElitePlace.Location = new System.Drawing.Point(353, 123);
+            this.textBoxNumElitePlace.Location = new System.Drawing.Point(742, 52);
             this.textBoxNumElitePlace.Name = "textBoxNumElitePlace";
             this.textBoxNumElitePlace.Size = new System.Drawing.Size(100, 20);
             this.textBoxNumElitePlace.TabIndex = 8;
@@ -130,7 +130,7 @@
             // 
             // startButton
             // 
-            this.startButton.Location = new System.Drawing.Point(205, 271);
+            this.startButton.Location = new System.Drawing.Point(412, 177);
             this.startButton.Name = "startButton";
             this.startButton.Size = new System.Drawing.Size(75, 23);
             this.startButton.TabIndex = 9;
@@ -168,13 +168,13 @@
             this.label6.AutoSize = true;
             this.label6.Location = new System.Drawing.Point(12, 100);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(327, 13);
+            this.label6.Size = new System.Drawing.Size(275, 13);
             this.label6.TabIndex = 12;
-            this.label6.Text = "Количество пчел, отправляемых на другие выбранные участки";
+            this.label6.Text = "Количество пчел, отправляемых на хорошие участки";
             // 
             // textBoxNumGoodPlace
             // 
-            this.textBoxNumGoodPlace.Location = new System.Drawing.Point(353, 149);
+            this.textBoxNumGoodPlace.Location = new System.Drawing.Point(742, 78);
             this.textBoxNumGoodPlace.Name = "textBoxNumGoodPlace";
             this.textBoxNumGoodPlace.Size = new System.Drawing.Size(100, 20);
             this.textBoxNumGoodPlace.TabIndex = 15;
@@ -183,16 +183,16 @@
             // label7
             // 
             this.label7.AutoSize = true;
-            this.label7.Location = new System.Drawing.Point(12, 152);
+            this.label7.Location = new System.Drawing.Point(459, 78);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(154, 13);
+            this.label7.Size = new System.Drawing.Size(139, 13);
             this.label7.TabIndex = 14;
-            this.label7.Text = "Количество выбранных мест";
+            this.label7.Text = "Количество хороших мест";
             // 
             // label8
             // 
             this.label8.AutoSize = true;
-            this.label8.Location = new System.Drawing.Point(12, 178);
+            this.label8.Location = new System.Drawing.Point(459, 104);
             this.label8.Name = "label8";
             this.label8.Size = new System.Drawing.Size(116, 13);
             this.label8.TabIndex = 17;
@@ -200,7 +200,7 @@
             // 
             // textBoxNumIter
             // 
-            this.textBoxNumIter.Location = new System.Drawing.Point(353, 175);
+            this.textBoxNumIter.Location = new System.Drawing.Point(742, 104);
             this.textBoxNumIter.Name = "textBoxNumIter";
             this.textBoxNumIter.Size = new System.Drawing.Size(100, 20);
             this.textBoxNumIter.TabIndex = 18;
@@ -208,7 +208,7 @@
             // 
             // textBoxMaxBoundNeighborhood
             // 
-            this.textBoxMaxBoundNeighborhood.Location = new System.Drawing.Point(440, 201);
+            this.textBoxMaxBoundNeighborhood.Location = new System.Drawing.Point(353, 135);
             this.textBoxMaxBoundNeighborhood.Name = "textBoxMaxBoundNeighborhood";
             this.textBoxMaxBoundNeighborhood.Size = new System.Drawing.Size(100, 20);
             this.textBoxMaxBoundNeighborhood.TabIndex = 20;
@@ -217,15 +217,15 @@
             // label9
             // 
             this.label9.AutoSize = true;
-            this.label9.Location = new System.Drawing.Point(12, 204);
+            this.label9.Location = new System.Drawing.Point(12, 135);
             this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(304, 13);
+            this.label9.Size = new System.Drawing.Size(211, 13);
             this.label9.TabIndex = 19;
-            this.label9.Text = "Окрестность участков x и y в которые посылаются пчелы ";
+            this.label9.Text = "Пределы окрестности участков по х и у ";
             // 
             // textBoxMinBoundNeighborhood
             // 
-            this.textBoxMinBoundNeighborhood.Location = new System.Drawing.Point(322, 201);
+            this.textBoxMinBoundNeighborhood.Location = new System.Drawing.Point(247, 135);
             this.textBoxMinBoundNeighborhood.Name = "textBoxMinBoundNeighborhood";
             this.textBoxMinBoundNeighborhood.Size = new System.Drawing.Size(100, 20);
             this.textBoxMinBoundNeighborhood.TabIndex = 21;
@@ -234,7 +234,7 @@
             // label10
             // 
             this.label10.AutoSize = true;
-            this.label10.Location = new System.Drawing.Point(499, 19);
+            this.label10.Location = new System.Drawing.Point(12, 208);
             this.label10.Name = "label10";
             this.label10.Size = new System.Drawing.Size(41, 13);
             this.label10.TabIndex = 22;
@@ -245,7 +245,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(852, 292);
             this.Controls.Add(this.label10);
             this.Controls.Add(this.textBoxMinBoundNeighborhood);
             this.Controls.Add(this.textBoxMaxBoundNeighborhood);

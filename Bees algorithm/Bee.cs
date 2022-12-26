@@ -1,14 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Bees_algorithm
 {
     public class Bee
     {
-        private double[] _position; // [0] - X, [1] - Y
+        private double[] _position; 
         private double _minPosition, _maxPosition;
         private static Random rand = new Random();
         public double[] Position => _position;

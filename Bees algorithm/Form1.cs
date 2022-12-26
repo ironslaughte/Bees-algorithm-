@@ -12,7 +12,7 @@ namespace Bees_algorithm
 {
     public partial class Form1 : Form
     {
-        private Hive hive;
+        private BeeСolony hive;
         private string strFitnessFunc;
         private int scoutsNum, eliteBeeNum, workersBeeNum, numElitePlaces, numGoodPlaces, numIterationAlg;
         private double minX, maxX;
@@ -46,8 +46,8 @@ namespace Bees_algorithm
 
         private void LaunchHiveAlg()
         {
-                hive = new Hive(scoutsNum, eliteBeeNum, workersBeeNum, numElitePlaces, numGoodPlaces, neighborhood, minX, maxX, numIterationAlg, strFitnessFunc);
-                hive.StartHiveAlg();
+                hive = new BeeСolony(scoutsNum, eliteBeeNum, workersBeeNum, numElitePlaces, numGoodPlaces, neighborhood, minX, maxX, numIterationAlg, strFitnessFunc);
+                hive.Run();
         }
 
         private bool ParseParams()
